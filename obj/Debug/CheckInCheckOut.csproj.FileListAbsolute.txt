@@ -1,0 +1,13 @@
+D:\K2N2\Winform\CheckInCheckOut\bin\Debug\CheckInCheckOut.exe.config
+D:\K2N2\Winform\CheckInCheckOut\bin\Debug\CheckInCheckOut.exe
+D:\K2N2\Winform\CheckInCheckOut\bin\Debug\CheckInCheckOut.pdb
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.csproj.AssemblyReference.cache
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.csproj.SuggestedBindingRedirects.cache
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.Form1.resources
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.Properties.Resources.resources
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.csproj.GenerateResource.cache
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.csproj.CoreCompileInputs.cache
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.exe
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.pdb
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.Form2.resources
+D:\K2N2\Winform\CheckInCheckOut\obj\Debug\CheckInCheckOut.Form3.resources
